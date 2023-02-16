@@ -1,0 +1,11 @@
+01,karvenagar,3042,23,15
+02,varje,3023,16,24
+03,Shirud,3051,7,18
+04,nashik,3049,22,25
+05,shivajinagar,3058,20,20
+06,Dhule,3056,6,12
+07,malegaon,3089,12,19
+08,chalisgaon,3078,14,20
+09,jalgaon,3057,10,14
+10,katrj,3044,14,25
+11,navle,3041,13,22	
